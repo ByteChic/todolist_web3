@@ -8,3 +8,4 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/137928762/277134093
 
 ---
 This project is made with the help of thirdweb.
+You can access this by this link : https://thirdweb.com/sepolia/0x882BcA182048E03b78A82B12298fe988FACcC92d/explorer
